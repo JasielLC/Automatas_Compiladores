@@ -1,0 +1,10 @@
+auto
+case
+continue
+mas
+int
+long
+cose
+jasiel123
+123
+H1

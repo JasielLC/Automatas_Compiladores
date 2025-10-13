@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+// Comentario simple
+int main() {
+    /* Comentario
+       multilinea */
+    
+    printf("Hola mundo");
+    puts("Texto en pantalla");
+    
+    int x = 10;
+    return 0;
+}
+
+// Fin del programa
