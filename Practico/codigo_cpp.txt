@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+// Inicio
+int main() {
+    /* Variables */
+    
+    int numero = 42;
+    float precio = 99.99;
+
+// Desarrollo
+
+    /* Ciclos */
+
+    if (numero > 0 && precio < 100) {
+        int total = numero * precio + 5;
+    }
+    
+    for (int i = 0; i < 10; i++) {
+        cout << "Iteracion: " << i << endl;
+    }
+    
+    return 0;
+
+//Fin
+}
